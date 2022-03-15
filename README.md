@@ -4,7 +4,6 @@
 - 🌱 Atualmente estou aprendendo > JS, HTML & CSS
 - 💞️ procuro colaborar > "none"
 - 📫 Como chegar até mim | Como me encontrar > contato.caiquen@gmail.com
-- 🏆 Linguagens trabalhadas > "private"
 -   \/
 -   -- ENGLISH --
 - 👋 Hi, I’m @CaiqueZ
@@ -12,7 +11,6 @@
 - 🌱 I’m currently learning > JS, HTML & CSS
 - 💞️ I’m looking to collaborate on > "none"
 - 📫 How to reach me > contato.caiquen@gmail.com
-- 🏆 Worked Languages > "private"
 
 <!---
 CaiqueZ/CaiqueZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
