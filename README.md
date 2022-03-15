@@ -1,4 +1,4 @@
--   -- ENGLISH --
+-   -- PORTUGUÊS/BR --
 - 👋 Olá, Eu sou @CaiqueZ
 - 👀 Tenho interesse em > desenvolver
 - 🌱 Atualmente estou aprendendo > JS, HTML & CSS
