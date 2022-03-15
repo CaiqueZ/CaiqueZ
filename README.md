@@ -4,7 +4,7 @@
 - 🌱 Atualmente estou aprendendo > JS, HTML & CSS
 - 💞️ procuro colaborar > "none"
 - 📫 Como chegar até mim | Como me encontrar > [Email](malito:contato.caiquen@gmail.com)
-- 
+-   \/
 -   -- ENGLISH --
 - 👋 Hi, I’m @CaiqueZ
 - 👀 I’m interested in > to develop
