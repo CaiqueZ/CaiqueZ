@@ -12,7 +12,7 @@
 - 💞️ I’m looking to collaborate on > "none"
 - 📫 How to reach me > contato.caiquen@gmail.com
 
-![Snake animation](https://github.com/CaiqueZ/CaiqueZ/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/CaiqueZ/CaiqueZ/dist/github-snake.gif)
 <!---
 CaiqueZ/CaiqueZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
