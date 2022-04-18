@@ -1,6 +1,6 @@
 ## Olá, Eu sou o WhiteZ
 
-<div display="flex" >
+<div display="flex" style="flex-direction: row">
   <a href="https://github.com/caiquez"> 
    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=caiquez&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquez&layout=compact&langs_count=7&theme=radical"/>
