@@ -1,14 +1,10 @@
--   -- PORTUGUÊS/BR --
-- 👋 Olá, Eu sou @CaiqueZ
-- 👀 Tenho interesse em > desenvolver
-- 🌱 Atualmente estou aprendendo > JS, HTML & CSS
-- 💞️ procuro colaborar > "none"
--   \/
--   -- ENGLISH --
-- 👋 Hi, I’m @CaiqueZ
-- 👀 I’m interested in > to develop
-- 🌱 I’m currently learning > JS, HTML & CSS
-- 💞️ I’m looking to collaborate on > "none"
+### Olá, Eu sou o WhiteZ
+
+<div align="center">
+  <a href="https://github.com/caiquez">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiquez&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquez&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ## Social Links
 <a href="https://www.linkedin.com/in/caiquen/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
