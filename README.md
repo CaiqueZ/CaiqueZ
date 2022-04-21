@@ -1,7 +1,8 @@
 ## Olá, Eu sou o WhiteZ
 
-> [!NOTE]
-> Information the user should notice even if skimming.
+~~~javascript
+Esta é uma linha de código em Javascript.
+~~~
 
 <div align="center"
   <a href="https://github.com/caiquez"> 
