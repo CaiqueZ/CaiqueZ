@@ -1,5 +1,8 @@
 ## Olá, Eu sou o WhiteZ
 
+> [!NOTE]
+> Information the user should notice even if skimming.
+
 <div align="center"
   <a href="https://github.com/caiquez"> 
    <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=caiquez&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
