@@ -1,8 +1,6 @@
 <h1 align="center">Fala, eu sou o WhiteZ 👨‍💻</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Estudando+C%23+com+foco!;Console+apps+hoje,+full-stack+amanhã!;Bem-vindo+ao+meu+GitHub!&center=true&width=410&height=45">
-</p>
+<h3 align="center">🧠 Estudando C# com foco! | Console apps hoje, full-stack amanhã 🚀</h3>
 
 ---
 
