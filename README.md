@@ -1,5 +1,4 @@
 <h1 align="center">Fala, eu sou o WhiteZ 👨‍💻</h1>
-
 <h3 align="center">🧠 Estudando C# com foco! | Console apps hoje, full-stack amanhã 🚀</h3>
 
 ---
@@ -42,3 +41,5 @@
 </div>
 
 ---
+> “Todo mestre já foi um iniciante focado.” – WhiteZ
+
